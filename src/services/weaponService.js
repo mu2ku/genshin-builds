@@ -1,4 +1,4 @@
-import * as tokenService from '../services/tokenService'
+import * as tokenService from '../services/tokenService.js'
 const BASE_URL = '/api/weapons'
 
 function getAllWeapons() {
